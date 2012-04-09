@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\spaceShipOne.FBX</Source>
+      <Name>Models\spaceShipOne</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Models\spaceShipOne.xnb</Output>
+      <Time>2011-07-21T01:30:11.1106+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\spaceShipOne_0.xml</Key>
+        <Value>2011-07-21T13:07:50.2918+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\spaceShipOne.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\spaceShipOne_0.xml</Output>
+      <Time>2011-07-21T01:30:11.1106+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rocket.FBX</Source>
+      <Name>Models\rocket</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Models\rocket.xnb</Output>
+      <Time>2011-07-21T14:25:07.4608+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\rocket_0.xml</Key>
+        <Value>2011-07-21T15:14:31.5518+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\Crosshair.bmp</Source>
+      <Name>Textures\Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Textures\Crosshair.xnb</Output>
+      <Time>2011-07-21T15:16:48.4838+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rocket.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\rocket_0.xml</Output>
+      <Time>2011-07-21T14:25:07.4608+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Red.fx</Source>
+      <Name>Effects\Red</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Effects\Red.xnb</Output>
+      <Time>2011-07-21T15:27:35.9628+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Fonts\Arial.xnb</Output>
+      <Time>2011-07-21T16:06:01.5192+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial Black.spritefont</Source>
+      <Name>Fonts\Arial Black</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Fonts\Arial Black.xnb</Output>
+      <Time>2011-07-21T15:49:15.2298+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma.spritefont</Source>
+      <Name>Fonts\Tahoma</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\Fonts\Tahoma.xnb</Output>
+      <Time>2011-07-21T16:29:27.7034+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-06T13:21:08.5971+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

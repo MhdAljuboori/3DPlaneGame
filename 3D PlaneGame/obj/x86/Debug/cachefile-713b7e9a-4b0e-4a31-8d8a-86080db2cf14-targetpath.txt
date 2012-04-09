@@ -1,0 +1,8 @@
+Content\Models\spaceShipOne.xnb
+Content\Models\rocket.xnb
+Content\Textures\Crosshair.xnb
+Content\Effects\Red.xnb
+Content\Fonts\Arial.xnb
+Content\Fonts\Arial Black.xnb
+Content\Fonts\Tahoma.xnb
+Content\Models\Plane.xnb

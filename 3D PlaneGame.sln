@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D PlaneGame", "3D PlaneGame\3D PlaneGame.csproj", "{3B3172D6-EC30-4B15-8BB9-C5DF42F268C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3172D6-EC30-4B15-8BB9-C5DF42F268C7}.Debug|x86.ActiveCfg = Debug|x86
+		{3B3172D6-EC30-4B15-8BB9-C5DF42F268C7}.Debug|x86.Build.0 = Debug|x86
+		{3B3172D6-EC30-4B15-8BB9-C5DF42F268C7}.Release|x86.ActiveCfg = Release|x86
+		{3B3172D6-EC30-4B15-8BB9-C5DF42F268C7}.Release|x86.Build.0 = Release|x86
+		{713B7E9A-4B0E-4A31-8D8A-86080DB2CF14}.Debug|x86.ActiveCfg = Debug|x86
+		{713B7E9A-4B0E-4A31-8D8A-86080DB2CF14}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\3D PlaneGame.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\3D PlaneGame.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\obj\x86\Debug\3D PlaneGame.exe
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\obj\x86\Debug\3D PlaneGame.pdb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Models\spaceShipOne.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Models\rocket.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Textures\Crosshair.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Effects\Red.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Fonts\Arial Black.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Fonts\Tahoma.xnb
+C:\Users\Sniper\Documents\Visual Studio 2008\Projects\3D PlaneGame\3D PlaneGame\bin\x86\Debug\Content\Models\Plane.xnb
